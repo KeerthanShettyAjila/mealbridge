@@ -1,0 +1,1 @@
+<?php require 'includes/functions.php';$title='Find food';require 'includes/header.php';?><section class="section"><div class="eyebrow">SHARED WITH CARE</div><h1>Find a little goodness.</h1><p>Explore available donations from approved local donors.</p><?php require 'includes/donation-list.php';?></section><?php require 'includes/footer.php';?>

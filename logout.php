@@ -1,0 +1,1 @@
+<?php require 'includes/functions.php';check_csrf();$_SESSION=[];session_destroy();go('login.php');
