@@ -1,0 +1,1 @@
+<?php require '../includes/functions.php';$u=guard('admin');require '../includes/dashboard.php';
