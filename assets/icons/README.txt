@@ -1,0 +1,1 @@
+SVG icons are rendered by icon() in includes/functions.php. No internet or icon CDN is needed. Original editable food illustrations are in assets/images/.
