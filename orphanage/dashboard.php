@@ -1,0 +1,1 @@
+<?php require '../includes/functions.php';$u=guard('orphanage');require '../includes/dashboard.php';
